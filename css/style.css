@@ -122,6 +122,14 @@ table {
     margin-bottom: 10px;
 }
 
+.address p {
+    white-space: nowrap;
+}
+
+.info p {
+    white-space: nowrap;
+}
+
 .footer {
     width: 100%;
     background: #000000;
