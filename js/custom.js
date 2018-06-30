@@ -138,7 +138,7 @@ function generate() {
         drawCell: function (cell, data) {
             if (data.row.index === data.table.rows.length - 1) {
                 doc.setFontStyle('bold');
-                doc.setFillColor(252, 247, 230);
+                doc.setFillColor(231, 247, 5);
             }
         }
     });
