@@ -99,7 +99,7 @@ table {
 }
 
 .content {
-    min-height: calc(100vh - 80px);
+    min-height: calc(100vh - 60px);
     padding: 0 20px;
 }
 
@@ -134,8 +134,8 @@ table {
     width: 100%;
     background: #000000;
     bottom: 0;
-    height: 80px;
-    padding: 20px 20px;
+    height: 60px;
+    padding: 10px 20px;
 }
 
 .footer img {
